@@ -1,8 +1,8 @@
 {
-  "homepage": "https://sahithiboin.github.io/carEth",
-  "name": "CarEth",
+  "homepage": "https://sahithiboin.github.io/",
+  "name": "carEth",
   "version": "0.1.1",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
